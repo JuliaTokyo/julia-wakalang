@@ -1,0 +1,2 @@
+# juliawakalang
+Juliaのわからないことへの質問を雑にする場所
