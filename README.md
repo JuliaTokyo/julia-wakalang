@@ -1,4 +1,4 @@
-# juliawakalang
+# julia-wakalang
 Juliaのわからないことへの質問を日本語でする場所
 「こういうのが欲しい」という雑な妄想や夢でもいいかも
 
