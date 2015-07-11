@@ -1,6 +1,7 @@
 # julia-wakalang
 
-[![Join the chat at https://gitter.im/JuliaTokyo/julia-wakalang](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JuliaTokyo/julia-wakalang?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<img src="http://julia-tokyo-inviter.herokuapp.com/badge.svg">
+
 
 Juliaのわからないことへの質問を日本語でする場所
 「こういうのが欲しい」という雑な妄想や夢でもいいかも
