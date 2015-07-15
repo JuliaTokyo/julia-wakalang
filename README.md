@@ -14,7 +14,9 @@ Juliaのわからないことへの質問を日本語でする場所
 - 得られた成果をtips.md(まだない)等に書く
 
 ### もっとラフな雑談がしたい！
-Gitterを使った[チャットルーム](https://gitter.im/JuliaTokyo/julia-wakalang)があります！
+<del>Gitterを使った[チャットルーム](https://gitter.im/JuliaTokyo/julia-wakalang)があります！</del>
+
+Slackに移行しました。[こちら](https://julia-tokyo-inviter.herokuapp.com/)から参加ください！
 
 ### 参考
 
