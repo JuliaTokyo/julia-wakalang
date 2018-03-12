@@ -16,7 +16,7 @@ Juliaのわからないことへの質問を日本語でする場所
 ### もっとラフな雑談がしたい！
 <del>Gitterを使ったチャットルームがあります！</del>
 
-Slackに移行しました。[こちら](https://julia-tokyo-inviter.herokuapp.com/)から参加ください！
+Slackに移行しました。[こちら](https://juliatokyo.slack.com/join/shared_invite/enQtMzI3MTI1MTcyNTc4LWM4NjRiYzkwODkzNjA4NzQ3YzMyMTI3MzFkNzJlMzNhZmNiY2U3NTBkY2Y5OGE1MDMwZGQyN2Y1MTkyM2Q5ZDM)から参加ください！
 
 ### 参考
 
